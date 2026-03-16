@@ -1,1 +1,1 @@
-First set up and install pdflatex
+**Set up and install pdflatex**
